@@ -1,4 +1,4 @@
-# jujutest
+# JuJu Media
 
 ## Project setup
 ```
